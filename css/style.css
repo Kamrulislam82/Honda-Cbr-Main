@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.b-and-w {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
+/* Happy Clients says */
+
+.titele-color{
+    color:#E76F51;
+}
+
+.fa-star{
+    font-size: 20px;
+    color: #ffc014;  
+  }
+  
+  .emptay{
+    color: #aeaeae;
+  }
+  .name-color{
+      color: #23A6F0;
+  }
+
+.cbr-bg-info{
+    background-color: #fceae8;
+}
+.cbr-btn-by-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
